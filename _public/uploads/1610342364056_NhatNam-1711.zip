@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /student/downloadFile/:_public/uploads/1609959303165_NhatNam-1711.zip</pre>
+</body>
+</html>
