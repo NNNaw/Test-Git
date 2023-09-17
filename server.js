@@ -41,5 +41,6 @@ app.listen(port, () => {
 });
 
 app.get("/test", (req, res) => {
-  res.send("Hello123");
+  res.status(200);
+  res.send("Hello123 321");
 });
